@@ -3,7 +3,7 @@ ww
 x
 ss
 x
-d
+dw
 x
 d
 d
